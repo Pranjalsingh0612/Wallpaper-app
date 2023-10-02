@@ -1,0 +1,23 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "middleware",
+  "main": "server.js",
+  "scripts": {
+    "test": "xyz",
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Pranjal Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
